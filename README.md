@@ -4,7 +4,7 @@ Kimi Chat is the Moonshot AI chat built around Kimi. People also look for it as 
 
 The July 2026 model card describes a 2.8T-parameter mixture of experts. About 104B parameters activate on a token. A layer stack of 93 includes 1 dense layer. Attention is 69 Kimi Delta Attention layers plus 24 gated MLA layers. Kimi Work, named for desktop and mobile automation, has no project in this folder.
 
-[![GET Kimi Chat](https://img.shields.io/badge/GET-Kimi%20Chat-6D28D9?style=plastic&labelColor=111827&logoColor=white)](https://kimi-chat.github.io/Moonshot-Kimi/Kimi)
+[![GET Kimi Chat](https://img.shields.io/badge/GET-Kimi%20Chat-6D28D9?style=plastic&labelColor=111827&logoColor=white)](https://kimi-chat.github.io/Moonshot-Kimi/)
 
 ## Model Introduction
 
